@@ -6,7 +6,7 @@
 两者之间发生了什么，即 A 对 B 做了什么
  
 ## Decorations - pattern
-进一步 解释/修饰 一个完整的 [Describing](/Describing/)
+进一步 解释/修饰 一个完整的单句
 
 ## Greeting
 问候，只是打招呼
