@@ -9,13 +9,13 @@
 ## [-wh](/Parts/W-H/) `did` `AvB`
 > 强调发生过的、存在的
 
-## [-wh](/Parts/W-H/) `will` `AvB`
-> 问将会是怎样的
+## [-wh](/Parts/W-H/) `will/would` `AvB`
+> 问将会是怎样的，will 较直接，如：...将会怎样，would 更委婉，如：...应该会是怎样
 
 ## [-wh](/Parts/W-H/) is `Av-ingB`
 > 询问就在现在、当时
 
 ## [-wh](/Parts/W-H/) has `Av-edB`
-> 调调已经如何的
+> 强调已经如何的
 
 ## ...
