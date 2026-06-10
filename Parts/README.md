@@ -12,6 +12,9 @@
 ## Probability
 > 附加表达程度
 
+## Stuffs
+> 想要表达的东西（或对象）
+
 ## Time
 > 
 
