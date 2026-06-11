@@ -12,6 +12,9 @@
 ## Inferring
 推测可能性 ...
 
+## Maximizing
+最大化
+
 ## Reviewing
 对过去的建议
 
