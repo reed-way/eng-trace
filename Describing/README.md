@@ -6,6 +6,9 @@
 ## Assuming
 如果/假如 ... 就会 ...
 
+## Emotions
+表达情感
+
 ## Hoping
 希望/愿/祝 ...
 
@@ -13,7 +16,7 @@
 推测可能性 ...
 
 ## Maximizing
-最大化
+强化
 
 ## Reviewing
 对过去的建议
