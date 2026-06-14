@@ -1,7 +1,7 @@
 # Describing
 
 ## Approaching
-要发生什么
+要发生
 
 ## Assuming
 如果/假如 ... 就会 ...
@@ -20,6 +20,9 @@
 
 ## Reviewing
 对过去的建议
+
+## Similarity
+同样的情况
 
 ## Wishing
 想/本想 ... 就不会（当前事实并不是如此）
