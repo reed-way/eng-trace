@@ -15,6 +15,9 @@
 ## Inferring
 推测可能性 ...
 
+## Judging
+评价一个事件
+
 ## Maximizing
 强化
 
