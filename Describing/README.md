@@ -27,5 +27,8 @@
 ## Similarity
 同样的情况
 
+## Transitioning
+关联动作（过渡）
+
 ## Wishing
 想/本想 ... 就不会（当前事实并不是如此）
