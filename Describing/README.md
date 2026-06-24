@@ -12,6 +12,9 @@
 ## Emotions
 表达情感
 
+## Ending
+结束用语
+
 ## Hoping
 希望/愿/祝 ...
 
@@ -22,10 +25,10 @@
 评价一个事件
 
 ## Maximizing
-强化
+强化描述
 
 ## Reviewing
-对过去的建议
+过去该有的样子
 
 ## Similarity
 同样的情况
